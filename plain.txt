@@ -1,0 +1,24 @@
+create directory structure
+create a NPM project and install all dependancies
+........_ dependancies
+........_ express
+........_ ejs express-ejs-layouts
+......_ Dev dependancies
+......_ nodemon
+create Express server - create a server.js file
+create Home page using Html and Css
+......_ include tailwind Css
+create Cart page
+......_ order summary section
+......_ empty cart section
+create order controller and link it in server.js
+create order view with table for customer and admin
+create order single page with status 
+create login page with route
+create register page with route
+Bulid register crud
+......_ dependancies express-flash express-session cookie-parser dotenv
+......_ status code article https://ww.restapitutorial.com/httpstatuscodes.Html
+....._ database connection dependancies mongoose
+Build login using passport
+....._ install dependancies passport passport-local express-session
